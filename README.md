@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="SStripe" />
   </div>
 
-  <h3 align="center">Iphone 15 Website</h3>
+  <h3 align="center">Notes SAAS Application</h3>
 
 </div>
 
